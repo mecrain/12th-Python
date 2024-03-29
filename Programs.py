@@ -1,3 +1,4 @@
+####TO LEARN
 ##1.roots of quadratic
 ##2.Area of a regular polygon
 ##3.Arc length
@@ -6,14 +7,6 @@
 ##6.split
 ##7.Occurence
 
-def main():
-      print("THIS COMPREHENSIVE PROGRAM CONTAINS ESSENTIAL PYTHON PROGRAMS NEEDED FOR CLASS 12th STUDENT(CBSE BOARD)")
-
-
-
-
-
-main()
 
 
 
